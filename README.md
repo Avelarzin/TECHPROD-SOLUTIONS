@@ -23,22 +23,23 @@ Uso de estratégias para entender o problema, conceber uma solução viável ao 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
 Sprint | Previsão | Status|
 |------|--------|------|
-|Kickoff|14/09/2023| Concluido| 
-|00 | 14/09/2023| Concluido| 
-|01 | 11/10/2023 | Concluido | 
-|02| 08/11/2023| Concluido |
-|03| 07/12/2023 | Concluido |
-|Feira de Soluções|12/12/2023 | Em execução |
+|Kickoff|14/09/2024| Em execução| 
+|00 | 14/09/2024| Em execução| 
+|01 | 11/10/2024 | Em execução | 
+|02| 08/11/2024| Em execução |
+|03| 07/12/2024 | Em execução |
+|Feira de Soluções|12/12/2024 | Em execução |
 
 
 
-# SMART FUTURE
+# TECHPROD SOLUTIONS
 
 <p align="center">
  <img src="https://github.com/Jairo090304/repositorioApi/blob/main/Sprint%201/imagem/Logo%20SmartFuture.PNG" width="100%"/>
 </p>
 
-# EQUIPE
+# ![Uploading TechProd_Solutions.png…]()
+EQUIPE
 
 <p align="center">
  <img src="https://github.com/Jairo090304/repositorioApi/blob/main/Sprint%201/imagem/Slide1.jpg" width="100%"/>
