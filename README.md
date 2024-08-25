@@ -35,10 +35,7 @@ Sprint | Previsão | Status|
 # TECHPROD SOLUTIONS
 
 <p align="center">
- <img src="https://github.com/Jairo090304/repositorioApi/blob/main/Sprint%201/imagem/Logo%20SmartFuture.PNG" width="100%"/>
+ <img src="https://github.com/Avelarzin/TECHPROD-SOLUTIONS/blob/main/TechProd_Solutions.png" width="100%"/>
 </p>
-![TechProd_Solutions](https://github.com/user-attachments/assets/2dc083a1-4dfa-4604-a0f6-c723e7f6fac6)
-
-
 
 
