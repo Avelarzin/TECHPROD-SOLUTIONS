@@ -34,7 +34,8 @@ Sprint | Previsão | Status|
 
 # Membros do time
 
-![image](https://github.com/user-attachments/assets/e4079187-a3ee-428d-b1af-277dc39f5b46)
+![image](https://github.com/user-attachments/assets/e6700115-92c7-46ee-a03e-c6b04d41bb61)
+
 
 
 # Objetivo do Projeto
