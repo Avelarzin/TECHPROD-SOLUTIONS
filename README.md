@@ -7,10 +7,8 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Projeto (API)](#projeto-api)
 * [Smart Future](#TECHPROD-SOLUTIONS)
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Funcionalidades e Demonstrações das Sprints](#funcionalidades-e-demonstrações-das-sprints)
 * [Cronograma das Sprints](#cronograma-das-sprints)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
-* [Autores](#autores)
 
 # Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
