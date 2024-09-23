@@ -35,13 +35,15 @@ Sprint | Previsão | Status|
 # Objetivo do Projeto
 - Melhorar a eficiencia da manutenção;
 
-- Implementação da manutenção preventiva e preditiva;
+- Implementação do desenho 3d da planta de produção;
 
 - Adequação ao Layout da area;
 
 - Gerenciamento de uso;
 
-- Treinamento de utilização da máquina.
+- Melhor adequação do layout;
+
+- Treinamento de utilização de maquinas disponiveis.
 
 # Funcionalidades e Demonstrações das Sprints
 
