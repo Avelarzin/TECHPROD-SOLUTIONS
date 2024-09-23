@@ -32,7 +32,8 @@ Sprint | Previsão | Status|
 
 # Membros do time
 
-![image](https://github.com/user-attachments/assets/e6700115-92c7-46ee-a03e-c6b04d41bb61)
+
+![image](https://github.com/user-attachments/assets/30c37764-576c-49ab-acce-d6b69edc9036)
 
 
 
