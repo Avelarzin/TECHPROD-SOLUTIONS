@@ -32,6 +32,9 @@ Sprint | Previsão | Status|
  <img src="https://github.com/Avelarzin/TECHPROD-SOLUTIONS/blob/main/TechProd_Solutions.png" width="100%"/>
 </p>
 
+![image](https://github.com/user-attachments/assets/e4079187-a3ee-428d-b1af-277dc39f5b46)
+
+
 # Objetivo do Projeto
 - Melhorar a eficiencia da manutenção;
 
