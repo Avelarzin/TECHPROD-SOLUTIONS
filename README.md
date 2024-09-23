@@ -32,4 +32,43 @@ Sprint | Previsão | Status|
  <img src="https://github.com/Avelarzin/TECHPROD-SOLUTIONS/blob/main/TechProd_Solutions.png" width="100%"/>
 </p>
 
+# Objetivo do Projeto
+- Melhorar a eficiencia da manutenção;
+
+- Implementação da manutenção preventiva e preditiva;
+
+- Adequação ao Layout da area;
+
+- Gerenciamento de uso;
+
+- Treinamento de utilização da máquina.
+
+# Funcionalidades e Demonstrações das Sprints
+
+## Sprint 1
+
+
+
+## Sprint 2
+
+
+
+## Sprint 3
+
+
+
+
+## Apresentação final
+
+
+
+## Softwares Utilizados
+
+- Canvas
+- Excel
+- PowerBi
+- GitHub
+- Pacote Office 
+- Google Forms
+
 
