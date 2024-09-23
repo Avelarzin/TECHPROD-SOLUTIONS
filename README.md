@@ -18,11 +18,10 @@ Uso de estratégias para entender o problema, conceber uma solução viável ao 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
 Sprint | Previsão | Status|
 |------|--------|------|
-|Kickoff|14/09/2024| Em execução| 
-|00 | 14/09/2024| Em execução| 
-|01 | 11/10/2024 | Em execução | 
-|02| 08/11/2024| Em execução |
-|03| 07/12/2024 | Em execução |
+|Kickoff|26/08/2024| Concluido| 
+|01 | 30/09/2024| Em execução| 
+|02 | 21/10/2024 | Em execução | 
+|03| 25/11/2024| Em execução |
 |Feira de Soluções|12/12/2024 | Em execução |
 
 
