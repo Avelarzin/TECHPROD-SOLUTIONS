@@ -32,7 +32,7 @@ Sprint | Previsão | Status|
  <img src="https://github.com/Avelarzin/TECHPROD-SOLUTIONS/blob/main/TechProd_Solutions.png" width="100%"/>
 </p>
 
-# MEMBROS DO TIME
+# Membros do time
 
 ![image](https://github.com/user-attachments/assets/e4079187-a3ee-428d-b1af-277dc39f5b46)
 
