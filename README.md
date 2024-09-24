@@ -39,7 +39,6 @@ Sprint | Previsão | Status|
 
 
 # Objetivo do Projeto
-- Melhorar a eficiencia da manutenção;
 
 - Implementação do desenho 3d da planta de produção;
 
@@ -47,9 +46,9 @@ Sprint | Previsão | Status|
 
 - Gerenciamento de uso;
 
-- Melhor adequação do layout;
+- Treinamento de utilização de maquinas disponiveis;
 
-- Treinamento de utilização de maquinas disponiveis.
+- Uilização de Softwares para melhor eficiencia de gestão de pessoas.
 
 # Funcionalidades e Demonstrações das Sprints
 
@@ -78,5 +77,7 @@ Sprint | Previsão | Status|
 - GitHub
 - Pacote Office 
 - Google Forms
+- Plant Simulator
+  
 
 
