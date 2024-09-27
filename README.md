@@ -74,7 +74,7 @@ Sprint | Previsão | Status|
 
 
 
-## Softwares Utilizados
+# Softwares Utilizados
 
 - Canvas
 - Excel
