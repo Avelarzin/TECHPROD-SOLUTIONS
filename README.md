@@ -15,13 +15,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
-Sprint | Previsão | Status|
-|------|--------|------|
-|Kickoff|26/08/2024| Concluido| 
-|01 | 30/09/2024| Em execução| 
-|02 | 21/10/2024 | Em execução | 
-|03| 25/11/2024| Em execução |
-|Feira de Soluções|12/12/2024 | Em execução |
 
 
 
@@ -50,6 +43,17 @@ Sprint | Previsão | Status|
 - Treinamento de utilização de maquinas disponiveis;
 
 - Uilização de Softwares para melhor eficiencia de gestão de pessoas.
+
+# Cronograma das Sprints
+
+Sprint | Previsão | Status|
+|------|--------|------|
+|Kickoff|26/08/2024| Concluido| 
+|01 | 30/09/2024| Em execução| 
+|02 | 21/10/2024 | Em execução | 
+|03| 25/11/2024| Em execução |
+|Feira de Soluções|12/12/2024 | Em execução |
+
 
 # Funcionalidades e Demonstrações das Sprints
 
