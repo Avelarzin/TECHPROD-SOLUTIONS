@@ -5,7 +5,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 # Índice
 
 * [Projeto (API)](#projeto-api)
-* [Smart Future](#TECHPROD-SOLUTIONS)
+* [TECHPROD SOLUTIONS](#TECHPROD-SOLUTIONS)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Cronograma das Sprints](#cronograma-das-sprints)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
