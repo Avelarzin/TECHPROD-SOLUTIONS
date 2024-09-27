@@ -55,7 +55,6 @@ Sprint | Previsão | Status|
 |Feira de Soluções|12/12/2024 | Em execução |
 
 
-[Matriz de Responsabilidade - TechProd Solution.pdf](https://github.com/user-attachments/files/17157658/Matriz.de.Responsabilidade.-.TechProd.Solution.pdf)
 
 
 
