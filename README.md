@@ -62,6 +62,7 @@ Sprint | Previsão | Status|
 
 ## Sprint 1
 
+https://youtu.be/-RPdJtOjn-g
 
 
 ## Sprint 2
