@@ -67,9 +67,8 @@ Sprint | Previsão | Status|
 
 ## Sprint 2
 
-(https://img.youtube.com/vi/-RPdJtOjn-g/0.jpg)](https://youtu.be/-RPdJtOjn-g)
 
-https://www.youtube.com/watch?v=pv24KEwq8YQ
+[![SPRINT 2](https://img.youtube.com/vi/pv24KEwq8YQ/0.jpg)](https://youtu.be/pv24KEwq8YQ)
 
 
 ## Sprint 3
