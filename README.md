@@ -49,7 +49,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Sprint | Previsão | Status|
 |------|--------|------|
 |Kickoff|26/08/2024| Concluido| 
-|01 | 30/09/2024| Em execução| 
+|01 | 30/09/2024| Concluido| 
 |02 | 21/10/2024 | Em execução | 
 |03| 25/11/2024| Em execução |
 |Feira de Soluções|12/12/2024 | Em execução |
@@ -67,6 +67,9 @@ Sprint | Previsão | Status|
 
 ## Sprint 2
 
+(https://img.youtube.com/vi/-RPdJtOjn-g/0.jpg)](https://youtu.be/-RPdJtOjn-g)
+
+https://www.youtube.com/watch?v=pv24KEwq8YQ
 
 
 ## Sprint 3
