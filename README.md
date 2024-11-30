@@ -74,6 +74,9 @@ Sprint | Previsão | Status|
 ## Sprint 3
 
 
+[![SPRINT 2](https://img.youtube.com/vi/2y0X7Ms8Cuc/0.jpg)](https://youtu.be/2y0X7Ms8Cuc)
+https://www.youtube.com/watch?v=2y0X7Ms8Cuc
+
 
 
 ## Apresentação final
