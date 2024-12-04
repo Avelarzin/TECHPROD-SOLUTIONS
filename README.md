@@ -12,9 +12,11 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Softwares Utilizados](#Softwares-Utilizados)
 
 # Projeto (API) 
- Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais, validação externa e mentalidade ágil. 
- O projeto escolar desenvolvido para a empresa Freudenberg tem como objetivo analisar o cenário atual da organização, identificando pontos fortes e áreas de melhoria. A partir dessa análise, serão propostas estratégias para otimizar processos e melhorar a eficiência. O foco é aprimorar a performance no curto prazo, ao mesmo tempo em que se criam bases para o desenvolvimento sustentável e a competitividade da empresa no longo prazo, considerando as mudanças do setor e o aprendizado do projeto.
- Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
+Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais, validação externa e mentalidade ágil 
+
+O projeto escolar desenvolvido para a empresa Freudenberg tem como objetivo analisar o cenário atual da organização, identificando pontos fortes e áreas de melhoria. A partir dessa análise, serão propostas estratégias para otimizar processos e melhorar a eficiência. O foco é aprimorar a performance no curto prazo, ao mesmo tempo em que se criam bases para o desenvolvimento sustentável e a competitividade da empresa no longo prazo, considerando as mudanças do setor e o aprendizado do projeto.
+
+Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
 
 
 
