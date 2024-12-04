@@ -8,7 +8,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [TECHPROD SOLUTIONS](#TECHPROD-SOLUTIONS)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Cronograma das Sprints](#cronograma-das-sprints)
-* [Competências Desenvolvidas](#competências-desenvolvidas)
+* [Análise Visual e Exemplos Práticos](#Análise-Visual-e-Exemplos-Práticos)
 * [Softwares Utilizados](#Softwares-Utilizados)
 
 # Projeto (API) 
