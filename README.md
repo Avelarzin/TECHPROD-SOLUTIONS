@@ -85,7 +85,8 @@ Sprint | Previsão | Status|
 ## Apresentação final
 
 
-[![Apresentação final](https://img.youtube.com/vi/6xJ6HQ937eCEbU2F/0.jpg)](https://youtu.be/6xJ6HQ937eCEbU2F)
+[![Apresentação final](https://img.youtube.com/vi/arFXrhCnzvU/0.jpg)](https://youtu.be/arFXrhCnzvU)
+
 
 
 ## Análise Visual e Exemplos Práticos
